@@ -94,6 +94,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine AJAX - Tools to build AJAX-powered components and UI](https://github.com/imacrayon/alpine-ajax)
 * [Norska - Create interactive Three.js scenes directly with Alpine](https://github.com/Plumie/Norska)
 
+### Building Plugins
+
+* [Alpine Plugin Template - An opinionated template for creating new Alpine plugins](https://github.com/coderkearns/alpinejs-plugin-template)
+
 ## UI Frameworks
 
 * [Vimesh UI - Agile UI framework for Alpine.js](https://github.com/vimeshjs/vimesh-ui)
